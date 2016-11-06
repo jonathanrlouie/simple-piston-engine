@@ -1,0 +1,10 @@
+[package]
+name = "simple-piston-engine"
+version = "0.1.0"
+authors = ["jawnloowee"]
+
+[dependencies]
+piston_window = "0.57.0"
+find_folder = "0.3.0"
+mopa = "0.2.2"
+yaml-rust = "0.3.4"
