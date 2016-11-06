@@ -1,4 +1,4 @@
-# Description
+# simple-piston-engine
 A simple game engine built with Piston and inspired by Amethyst.
 
 ## About
